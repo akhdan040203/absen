@@ -20,7 +20,7 @@ if ($mod == '') {
             <!-- Wallet Card -->
             <div class="section wallet-card-section pt-1">
                 <div class="wallet-card">
-                    <div class="balance">
+                    <div class="balance">\\
                         <div class="left">
                             <span class="title"> Selamat ' . $salam . '</span>
                             <h4>' . ucfirst($row_user['employees_name']) . '</h4>
